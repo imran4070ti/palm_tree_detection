@@ -1,12 +1,6 @@
 # Datasets
 dataset/
 data/
-*.jpg
-*.jpeg
-*.png
-*.gif
-*.tif
-*.tiff
 
 # Model files
 models/
@@ -57,10 +51,6 @@ ENV/
 *.swp
 *.swo
 .DS_Store
-
-# Jupyter Notebook
-.ipynb_checkpoints
-*.ipynb
 
 # Miscellaneous
 config.ini
